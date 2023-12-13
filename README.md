@@ -11,7 +11,6 @@ Compilation
 Usage
 Known Issues
 Contributing
-License
 
 #Functions
 int (*spec(char *s))(char **argv, char *buff, int status, int round_index)
@@ -100,6 +99,3 @@ Limited support for complex command structures.
 ...
 #Contributing
 Contributions are welcome! Please feel free to open issues or submit pull requests.
-
-#License
-This project is licensed under the MIT License.
